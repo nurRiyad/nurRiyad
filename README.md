@@ -6,6 +6,12 @@
 - 📫 How to reach me: email me at "asadnurriyad@gmail.com
 - ⚡ Fun fact: If work is worship.... then I'm an atheist
 
+---
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nurRiyad&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=nurRiyad&theme=dark&hide_border=true" width = 400>
+</p>
+
 <!--
 **nurRiyad/nurRiyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
