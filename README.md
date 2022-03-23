@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I am Riyad!
+
+- 🔭 I’m currently working @appscode
+- 🌱 I’m currently learning vue composition api, pinia, typescript
+- 💬 Ask me about javascript, vuejs, nuxtjs
+- 📫 How to reach me: email me at "asadnurriyad@gmail.com
+- ⚡ Fun fact: If work is worship.... then I'm an atheist
 
 <!--
 **nurRiyad/nurRiyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
