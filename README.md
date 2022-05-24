@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning vue composition api, pinia, typescript
 - 💬 Ask me about javascript, vuejs, nuxtjs
 - 📫 How to reach me: email me at "asadnurriyad@gmail.com
-- ⚡ Fun fact: If work is worship.... then I'm an atheist
 
 ---
 <p align = "center">
