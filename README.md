@@ -5,7 +5,7 @@
 - 💬 Ask me about javascript, vuejs, nuxtjs
 - 📫 How to reach me: email me at "asadnurriyad@gmail.com
 
----
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=nurRiyad&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=nurRiyad&theme=dark&hide_border=true" width = 400>
