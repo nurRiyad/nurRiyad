@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Riyad!
 
 - 🔭 I’m currently working @appscode ([Bytebuilders](https://github.com/bytebuilders))
-- 🌱 I’m currently learning vue composition api, pinia, typescript
+- 🌱 I’m currently learning express, supabase, mongodb, docker
 - 💬 Ask me about javascript, vuejs, nuxtjs
 - 📫 How to reach me: email me at "asadnurriyad@gmail.com
 
