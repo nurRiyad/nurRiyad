@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Riyad!
 
 - 🔭 I’m currently working @appscode ([Bytebuilders](https://github.com/bytebuilders))
-- 🌱 I’m currently learning nestjs, postgreSQL, docker
+- 🌱 I’m currently learning docker, kubernetes
 - 💬 Ask me about javascript, typescript, vuejs, nuxtjs
 - 📫 How to reach me: email me at "asadnurriyad@gmail.com
 
