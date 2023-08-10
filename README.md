@@ -35,10 +35,5 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=nurriyad&theme=vue-dark&hide_border=false" width="360" >
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=nurriyad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
