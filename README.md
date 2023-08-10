@@ -6,6 +6,8 @@
 - 📫 How to reach me: email me at "asadnurriyad@gmail.com
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurriyad&theme=github_dark)
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=nurRiyad&show_icons=true&theme=bear" width = 350>
   <img src = "https://streak-stats.demolab.com?user=nurRiyad&theme=dark" width = 370>
