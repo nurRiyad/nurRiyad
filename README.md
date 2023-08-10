@@ -10,11 +10,9 @@
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurriyad&theme=github_dark">
 </div>
 
-
-
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=nurRiyad&show_icons=true&theme=bear" width = 350>
-  <img src = "https://streak-stats.demolab.com?user=nurRiyad&theme=dark" width = 370>
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurriyad&theme=github_dark"  height = 200>
+  <img src = "https://streak-stats.demolab.com?user=nurRiyad&theme=dark" >
 </p>
 
 <!--
