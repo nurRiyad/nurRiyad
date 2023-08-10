@@ -11,7 +11,7 @@
 </div>
 
 <p align = "center">
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurriyad&theme=github_dark"  height = 200>
+  <img src = "https://github-readme-stats.vercel.app/api?username=nurriyad&show_icons=true&theme=dark">
   <img src = "https://streak-stats.demolab.com?user=nurRiyad&theme=dark" >
 </p>
 
