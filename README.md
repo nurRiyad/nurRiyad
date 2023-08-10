@@ -11,8 +11,8 @@
 </div>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=nurriyad&show_icons=true&theme=dark">
-  <img src = "https://streak-stats.demolab.com?user=nurRiyad&theme=dark" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=nurriyad&show_icons=true&theme=dark" width="340" >
+  <img src = "https://streak-stats.demolab.com?user=nurRiyad&theme=dark" width="360" >
 </p>
 
 <!--
