@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Riyad!
 - 🔭 I’m currently working @appscode ([AppsCode-Cloud](https://github.com/appscode-cloud))
-- 🌱 I’m currently learning express, docker, kubernetes
+- 🌱 I’m currently learning docker, kubernetes
 - 💬 Ask me about javascript, typescript, vuejs, nuxtjs
 - 📫 How to reach me: email me at "asadnurriyad@gmail.com
 
