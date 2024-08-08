@@ -1,5 +1,5 @@
 # Hi 👋 I am Riyad!
-*Senior Software Engineer | Javascript | Typescript*
+*Software Engineer | Javascript | Typescript*
 
 - 🔭 I’m currently working @appscode ([AppsCode-Cloud](https://github.com/appscode-cloud))
 - 🌱 I’m currently learning docker, kubernetes
