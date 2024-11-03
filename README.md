@@ -1,19 +1,16 @@
 # Hi 👋 I am Riyad!
-*Software Engineer | Javascript | Typescript*
+*Senior Software Engineer | Javascript | Typescript*
 
-- 🔭 I’m currently working @appscode ([AppsCode-Cloud](https://github.com/appscode-cloud))
-- 🌱 I’m currently learning docker, kubernetes
-- 💬 Ask me about javascript, typescript, vuejs, nuxtjs
-- 📫 How to reach me: email me at "asadnurriyad@gmail.com
-
+I am a dedicated software engineer with a strong background in building robust web applications using TypeScript and JavaScript. Currently leading the frontend team at @AppsCode Ltd., I have experience across both frontend and backend development, including creating large-scale web dashboards, SSR applications, and web servers. I hold a BSc in Computer Science and Engineering, and in my university days, I was passionate about competitive programming, which sharpened my problem-solving skills and attention to detail.
 
 ## 🌐 Socials:
 [![website](https://img.shields.io/badge/Portfolio-nurriyad.xyz-2648ff?style=flat&logo=google-chrome)](https://nurriyad.xyz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nur-riyad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16781395) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/qdnvubp) 
 
 ## 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,go&theme=dark&perline=4" />
 <img src="https://skillicons.dev/icons?i=vite,vue,nuxt,react,next,firebase,html,tailwind,css&theme=dark" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mongodb,linux,docker,aws,cloudflare,kubernetes&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mongodb,linux,docker,aws,cloudflare,kubernetes" />
+
 
 
 ## 📊 GitHub Stats:
