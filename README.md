@@ -1,4 +1,4 @@
-# Hi 👋 I am Riyad!
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mono&pause=1000&width=435&lines=+Hi+%F0%9F%91%8B+I+am+Riyad!)](https://git.io/typing-svg)
 *Senior Software Engineer | Javascript | Typescript*
 
 I am a dedicated software engineer with a strong background in building robust web applications using TypeScript and JavaScript. Currently leading the frontend team at @AppsCode Ltd., I have experience across both frontend and backend development, including creating large-scale web dashboards, SSR applications, and web servers. I hold a BSc in Computer Science and Engineering, and in my university days, I was passionate about competitive programming, which sharpened my problem-solving skills and attention to detail.
