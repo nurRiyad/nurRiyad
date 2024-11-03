@@ -11,9 +11,9 @@
 [![website](https://img.shields.io/badge/Portfolio-nurriyad.xyz-2648ff?style=flat&logo=google-chrome)](https://nurriyad.xyz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nur-riyad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16781395) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/qdnvubp) 
 
 ## 💻 Tech Stack:
-<a href="https://liruifengv.com#gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,go,nodejs,nest,vue,nuxt,react,next&theme=light" />
-</a>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vite,vue,nuxt,react,next,firebase,html,tailwind,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mongodb,linux,docker,aws,cloudflare,kubernetes&theme=dark" />
 
 
 ## 📊 GitHub Stats:
