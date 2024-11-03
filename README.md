@@ -1,7 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mono&pause=1000&width=435&lines=+Hi+%F0%9F%91%8B+I+am+Riyad!)](https://git.io/typing-svg)
-*Senior Software Engineer | Javascript | Typescript*
-
-I am a dedicated software engineer with a strong background in building robust web applications using TypeScript and JavaScript. Currently leading the frontend team at @AppsCode Ltd., I have experience across both frontend and backend development, including creating large-scale web dashboards, SSR applications, and web servers. I hold a BSc in Computer Science and Engineering, and in my university days, I was passionate about competitive programming, which sharpened my problem-solving skills and attention to detail.
+I am a software engineer with a strong background in building robust web applications using TypeScript and JavaScript. Currently leading the frontend team at @AppsCode Ltd., I have experience in both frontend and backend development. I have built large-scale web dashboards, SSR applications, and web servers. I hold a BSc in Computer Science and Engineering, and during my university days, I loved competitive programming.
 
 ## 🌐 Socials:
 [![website](https://img.shields.io/badge/Portfolio-nurriyad.xyz-2648ff?style=flat&logo=google-chrome)](https://nurriyad.xyz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nur-riyad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16781395) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/qdnvubp) 
