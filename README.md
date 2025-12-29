@@ -5,9 +5,14 @@ I am a software engineer with a strong background in building robust web applica
 
 <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,nodejs,express,nest,vue,react,mysql,linux,docker,aws,cloudflare,kubernetes&theme=dark" />
 
-###  ⚡ Github Stats
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nurriyad&show_icons=true)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=nurriyad)
+### ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nurriyad&show_icons=true" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nurriyad" height="180" />
+</p>
+
+
 
  
 
