@@ -13,6 +13,6 @@ I am a software engineer with a strong background in building robust web applica
 </p>
 
 
-[link test](https://ui-mobile.fndev.net/dashboard/fn-wallet)
+[link test](https://ui-mobile.fndev.net/dashboards/fn-wallet)
  
 
