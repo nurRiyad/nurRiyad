@@ -9,7 +9,7 @@ I am a software engineer with a strong background in building robust web applica
 
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=nurriyad&show_icons=true" height="160" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nurriyad" height="160" />
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nurriyad" height="160" /> -->
 </p>
 
 
