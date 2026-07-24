@@ -3,7 +3,7 @@ I am a software engineer with a strong background in building robust web applica
 
 [![website](https://img.shields.io/badge/Portfolio-nurriyad.com-2648ff?style=flat&logo=google-chrome)](http://nurriyad.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nur-riyad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16781395) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/qdnvubp) 
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,go,php,,cpp,nest,vue,react,mysql,redis,rabbitmq,kafka,docker,aws,kubernetes&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,go,php,cpp,nest,vue,react,mysql,redis,rabbitmq,kafka,docker,aws,kubernetes&theme=dark" />
 
 ### ⚡ GitHub Stats
 
